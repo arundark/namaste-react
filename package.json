@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namste react bootcamp",
+  "main": "App.js",
+  "scripts": {
+    "test": "arun arangan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arundark/namaste-react.git"
+  },
+  "keywords": [
+    "arun"
+  ],
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arundark/namaste-react/issues"
+  },
+  "homepage": "https://github.com/arundark/namaste-react#readme"
+}
