@@ -6,6 +6,13 @@
     <title>Document</title>
   </head>
   <body>
-    <div id="root">Hello World</div>
+    <div id="root"></div>
   </body>
+  <script>
+    const heading = document.createElement("h1");
+    heading.innerHTML = "Hello World from JavaScript";
+
+    const root = document.getElementById("root");
+    root.appendChild(heading);
+  </script>
 </html>
