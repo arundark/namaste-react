@@ -4,7 +4,9 @@
   "description": "namste react bootcamp",
   "main": "App.js",
   "scripts": {
-    "test": "arun arangan"
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,5 +28,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist": [
+    "last 2 versions"]
 }
